@@ -1,2 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
+using src;
+
+Console.WriteLine("Advent Of Code Day 1 : ");
+
+DayOne.Run();
